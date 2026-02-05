@@ -1,4 +1,4 @@
-# Color Picker 
+# Color Maker 
 ## Instructions
 To run this app, navigate to your desired folder using the terminal and run `git clone <cloned-github-link-of-this-repo>`. This will clone the repository.
 
